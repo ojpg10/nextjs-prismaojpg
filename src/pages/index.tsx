@@ -39,7 +39,10 @@ const TodoItem: React.FC<{ todo: Todo }> = ({ todo }) => (
     </label>
 
     <button className={styles.deleteButton} onClick={() => deleteTodo(todo.id)}>
-      ✕
+      Adicionar
+    </button>
+     <button className={styles.deleteButton} onClick={() => deleteTodo(todo.id)}>
+      Adicionar2
     </button>
   </li>
 );
@@ -77,7 +80,7 @@ const Home: NextPage = () => {
       </Head>
 
       <header className={styles.header}>
-        <h1 className={styles.title}>Todos</h1>
+        <h1 className={styles.title}>Aplicacion oscar </h1>
         <h2 className={styles.desc}>
           aplicacion oscar perez {" "}
           <a href="https://railway.app">oscarrrrrr</a>
