@@ -84,7 +84,7 @@ const Home: NextPage = () => {
         <h2 className={styles.desc}>
           aplicacion oscar perez {" "}
           <a href="https://railway.app">oscarrrrrr</a>
-            <a href="README.md">Google</a>
+            <a href="ojpg">Google</a>
         </h2>
       </header>
 
