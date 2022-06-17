@@ -83,7 +83,7 @@ const Home: NextPage = () => {
         <h1 className={styles.title}>Aplicacion oscar </h1>
         <h2 className={styles.desc}>
           aplicacion oscar perez {" "}
-          <a href="https://railway.app">oscarrrrrr</a>
+          <a href="https://railway.app">oscar Perez 2022</a>
             <a href="ojpg">Google</a>
         </h2>
       </header>
