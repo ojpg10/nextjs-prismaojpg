@@ -72,14 +72,15 @@ const Home: NextPage = () => {
     <div className={styles.container}>
       <Head>
         <title>Oscar railway rect</title>
+     
         <link rel="icon" href="/favicon.ico" />
       </Head>
 
       <header className={styles.header}>
         <h1 className={styles.title}>Todos</h1>
         <h2 className={styles.desc}>
-          NextJS app connected to Postgres using Prisma and hosted on{" "}
-          <a href="https://railway.app">Railway</a>
+          aplicacion oscar perez {" "}
+          <a href="https://railway.app">oscarrrrrr</a>
             <a href="www.google.com">Google</a>
         </h2>
       </header>
